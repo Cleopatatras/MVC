@@ -1,0 +1,10 @@
+{
+    "name": "anne/mvc",
+    "description": "exo mvc",
+    "autoload": {
+        "psr-4": {
+            "Anne\\Mvc\\": "src/"
+        }
+    },
+    "require": {}
+}
